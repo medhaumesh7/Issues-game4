@@ -37,6 +37,6 @@ Submit the answer in the Game 3 issue.
 
 Remember:
 
-/answer <your solved answer>
+/answer KLJNovaKHK
 
 Commit: <link to your commit containing final-answer.txt>
